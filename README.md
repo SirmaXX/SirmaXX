@@ -33,14 +33,7 @@ I need to guidance  myself for improving myself.
 
 - [ICTR -Community Blog](https://blog.ictr.club/author/deniz-balci/)
 
-<h2 align="left">Organizations</h2>
-:star:I'm contributing these organizations:
 
-- [GeneStat](https://github.com/GeneStat)
-
-- [Mastercodex3d](https://github.com/Mastercodex3d)
-
-- [egitim-org](https://github.com/egitim-org)
 
 
 
