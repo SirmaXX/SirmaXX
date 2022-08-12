@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirmaXX&layout=compact&hide=html" alt="SirmaXX" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SirmaXX&show_icons=true" alt="SirmaXX" /></p>
+-->
+
