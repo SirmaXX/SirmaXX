@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi there 👋</h2>
-<h3 align="center"> 📊  Data Analyst and   ⚡ Software Developer</h3>
+<h3 align="center"> 📊  Data Scientist and   ⚡ Software Developer</h3>
 
   <h2 align="left">Skills</h2>
 
